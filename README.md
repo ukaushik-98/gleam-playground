@@ -22,3 +22,11 @@ Further documentation can be found at <https://hexdocs.pm/playground>.
 gleam run   # Run the project
 gleam test  # Run the tests
 ```
+
+Functional Programming Journey 
+- composable functions 
+- immutable data
+- higher order functions
+- monad
+- algebraic data types
+- pattern matching
